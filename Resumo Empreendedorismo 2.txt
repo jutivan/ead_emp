@@ -1,0 +1,38 @@
+Resumo Empreendedorismo 2.0:
+
+1 - Conceito de Empreendedorismo:
+	- Arte, algo que pode ser desenvolvido nas pessoas que aumentam as chances de sucesso mediante a uma capacitaão prévia em um empreendimento.
+	- Arte e ciência que tem por objeto de estudo a capacidade humana de transformar sonhos/projetos em realidade
+	- É algo que pode ser ensinado e traz benefícios para economia e sociedade.
+	- Na Fiap temos empreendedorismo de forma tecnológica de forma inovadora com foco nacriação de startups, pequenas empresas no estágio inicial
+	
+2 - Oportunidades de Negócio:
+	- criatividade através da obeservação do comportamento e necessidades das pessoas e como resolve-las, gerando brainstorms e solucoes
+	- novos negócios, produtos e servico
+	- Ferramentas: Design Thinking e Business Model CANVAS - para validar e iniciar uma ideia de negócio
+
+3 - Plano de Negócios:
+	- Documento que descreve todas etapas para o desenvolimento do negócio, sua natureza, características, plano financeiro, marketing, aspectos jurídicos
+	- Fatores de sucesso e insucesso antes de criar o neógico, mas não é totalmente exato, pois é uma ferramenta de reflexão
+	- Cultura de planejar nas organizações
+	 
+4 - Marketing:
+	- Processo em que empresa planeja como vai colocar seu produtos e serviços da forma mais adequada para os clientes aumentado as chances de sucesso da organização
+	- Produto ou serviço necessário é necessário?, como vender, qual preço, promoções, melhor forma de distribuir, pontos comerciais
+	- Design Thinking: ferramenta para observar comportamento humano, foco no cliente, comportamento e habitos do consumidor/pessoas para criar empatia por problema e necessidade
+	- Pesquisa do mercado e validar ideia com potenciais consumidores
+	
+5 - Estratégias e Modelo de Negócio:
+	- Origem de ciências militares, disputa por poder e território
+	- Atualmente está relacionado ao poder econômico e o mercado de cada país
+	- Visão macro para agir e aumentar condições e vantagens competitivas do produto ou serviço no mercado em que está inserido, tomada de decisão
+	
+6 Business Model Generation(CANVAS)
+	- Metodologia/Ferramenta que dá uma forma simplificado para o empreendedor elaborar um PLANO DE NEGÓCIOS para validar a sua ideia
+	- Convida o empreendedor a refletir sobre 9 fatores de sucesso(blocos de construção) para o seu negócio:
+		1) Proposta de Valor (ex: preço, prazo rápido)
+		2) Segmento de Clientes (ex: mulheres com mais de 30 anos)
+		3) Canal de Distribuição 
+		4) ...(ver no material, pontos chaves)
+		Analisam fatores de sucesso e insucesso do produto
+	- Converge os  9 fatores em um quadro(canvas), tópicos com post its coloridos, ajuste e melhorias da estratégia
